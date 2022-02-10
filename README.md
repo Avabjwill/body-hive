@@ -1,4 +1,4 @@
-# body-hive Fitness-Tracker
+# BODYHive Fitness-Tracker
 
 Body Hive is a complete fitness tracker app that allows a user to view, create and track daily workouts using a Mongo database with a Mongoose schema and handle routes within Express.
 
